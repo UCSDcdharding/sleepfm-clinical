@@ -1,7 +1,7 @@
 #!/bin/bash
 
-root_dir=/oak/stanford/groups/mignot/psg/NSRR/mesa
-target_dir=/oak/stanford/groups/jamesz/rthapa84/psg_fm/data_new_128/mesa
+root_dir=/Users/cdharding/Documents/Schmidt_AI/sleepfm-inference/ALZ/psg
+target_dir=/Users/cdharding/Documents/Schmidt_AI/sleepfm-inference/ALZ/converted
 
 num_threads=10
 num_files=-1
