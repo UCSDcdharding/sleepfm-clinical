@@ -391,7 +391,7 @@ def main():
                                 num_files=args.num_files,
                                 resample_rate=args.resample_rate)
 
-    converter.convert_all_multiprocessing()
+    converter.convert_all()
 
 
 if __name__ == "__main__":
